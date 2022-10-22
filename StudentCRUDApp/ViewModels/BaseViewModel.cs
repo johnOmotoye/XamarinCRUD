@@ -10,7 +10,7 @@ namespace StudentCRUDApp.ViewModels
 {
     public class BaseViewModel : INotifyPropertyChanged
     {
-        public IDataStore<Item> DataStore => DependencyService.Get<IDataStore<Item>>();
+        public IDataStore<Student> DataStore => DependencyService.Get<IDataStore<Student>>();
 
         bool isBusy = false;
         public bool IsBusy

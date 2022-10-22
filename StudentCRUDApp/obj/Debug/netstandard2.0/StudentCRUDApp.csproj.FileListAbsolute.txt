@@ -1,0 +1,17 @@
+C:\Users\johno\source\repos\StudentCRUDApp\StudentCRUDApp\obj\Debug\netstandard2.0\StudentCRUDApp.csproj.AssemblyReference.cache
+C:\Users\johno\source\repos\StudentCRUDApp\StudentCRUDApp\obj\Debug\netstandard2.0\StudentCRUDApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johno\source\repos\StudentCRUDApp\StudentCRUDApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\johno\source\repos\StudentCRUDApp\StudentCRUDApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\johno\source\repos\StudentCRUDApp\StudentCRUDApp\obj\Debug\netstandard2.0\StudentCRUDApp.AssemblyInfoInputs.cache
+C:\Users\johno\source\repos\StudentCRUDApp\StudentCRUDApp\obj\Debug\netstandard2.0\StudentCRUDApp.AssemblyInfo.cs
+C:\Users\johno\source\repos\StudentCRUDApp\StudentCRUDApp\obj\Debug\netstandard2.0\StudentCRUDApp.csproj.CoreCompileInputs.cache
+C:\Users\johno\source\repos\StudentCRUDApp\StudentCRUDApp\obj\Debug\netstandard2.0\StudentCRUDApp.dll
+C:\Users\johno\source\repos\StudentCRUDApp\StudentCRUDApp\obj\Debug\netstandard2.0\ref\StudentCRUDApp.dll
+C:\Users\johno\source\repos\StudentCRUDApp\StudentCRUDApp\obj\Debug\netstandard2.0\StudentCRUDApp.pdb
+C:\Users\johno\source\repos\StudentCRUDApp\StudentCRUDApp\bin\Debug\netstandard2.0\StudentCRUDApp.deps.json
+C:\Users\johno\source\repos\StudentCRUDApp\StudentCRUDApp\bin\Debug\netstandard2.0\StudentCRUDApp.dll
+C:\Users\johno\source\repos\StudentCRUDApp\StudentCRUDApp\bin\Debug\netstandard2.0\StudentCRUDApp.pdb
+C:\Users\johno\source\repos\StudentCRUDApp\StudentCRUDApp\obj\Debug\netstandard2.0\StudentCRUDApp.csproj.Fody.CopyLocal.cache
+C:\Users\johno\source\repos\StudentCRUDApp\StudentCRUDApp\obj\Debug\netstandard2.0\StudentCRUDApp.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\johno\source\repos\StudentCRUDApp\StudentCRUDApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\johno\source\repos\StudentCRUDApp\StudentCRUDApp\obj\Debug\netstandard2.0\refint\StudentCRUDApp.dll

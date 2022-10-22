@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ePHhvF5KQ32qGMWEKlVPY2KszBB0jwNvxS+6njX+1YBD5vptsy+ajpqjfbtModa9OcpV+7SI/gZdVaAl2mcfPw==",
+  "dgSpecHash": "Fo9sBvycGzhz6DeOieuiQf6EVEal4xOpJTRq6YoqPa/eaktx4FF2r6/9XsEs2TAin4GWz//gb6hlpCSotTcDbQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\johno\\source\\repos\\StudentCRUDApp\\StudentCRUDApp.Android\\StudentCRUDApp.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\johno\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
+    "C:\\Users\\johno\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\johno\\.nuget\\packages\\propertychanged.fody\\4.0.5\\propertychanged.fody.4.0.5.nupkg.sha512",
     "C:\\Users\\johno\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",

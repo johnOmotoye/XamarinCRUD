@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "QPkKKtFWl/gkDciG3CQq08eIMrdAivWC7q+OHsGCnzKXdnt0XCyCE4pw1GGKhAmQQBcF9yCRsgP4PzOrzqSEUg==",
+  "dgSpecHash": "5oDT47pjSmAVqYgeS4vOzYmtCdWhRlWiUAbBzqVOFD+R26sgZTGf1veS5V3g9KG1tsi1vR5G+oOzh0iMpvGOiA==",
   "success": true,
   "projectFilePath": "C:\\Users\\johno\\source\\repos\\StudentCRUDApp\\StudentCRUDApp.iOS\\StudentCRUDApp.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\johno\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
+    "C:\\Users\\johno\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\johno\\.nuget\\packages\\propertychanged.fody\\4.0.5\\propertychanged.fody.4.0.5.nupkg.sha512",
     "C:\\Users\\johno\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
